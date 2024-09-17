@@ -1,0 +1,2 @@
+# BatoxStore
+web
